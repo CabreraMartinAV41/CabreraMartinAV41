@@ -13,47 +13,4 @@ Actual estudiante de la _EESTN7_ <img src="https://lh3.googleusercontent.com/pro
 Me gusta la programación en general, pero lo que más me interesa es el desarrollo de sistemas de aprendizaje automático no supervisado :file_folder: y el desarrollo de videojuegos.:space_invader:  <img src="https://i.gifer.com/74xC.gif" width="50">
 
 
-*Mis hobbies son:*
 
-
-1. La programación de:
-
-
-	*Videojuegos :space_invader: (Con C#, C++ o Python)
-	
-	
-	*Machine Learning :computer: (Con Python, aunque me recomendaron C# también jaja)
-	
-	
-	*Aplicaciones en general :iphone: (Con C++ o Python)
-	
-	
-2. Diseñar en Blender
-
-
-3. Solidworks
-
-4. Mirar series de Netflix
-
-
-5. Jugar Videojuegos, en especial:
-
-
-	*Apex Legends :video_game:
-	
-	
-	*Satisfactory :video_game:
-	
-	
-	*Subnautica :video_game:
-	
-	
-	*Counter Strike: Global Offensive :video_game:
-	
-	
-	*Valorant :video_game:
-	
-	
-	*The Binding of Isaac : Afterbirth Plus :video_game:
-	
-	
