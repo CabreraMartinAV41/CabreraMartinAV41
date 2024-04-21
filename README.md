@@ -1,13 +1,10 @@
 <h2>¡Hola, mi nombre es Martín Cabrera!</h2>
 
 
-_Tengo 15 años_
+_Tengo 18 años_
 
 
-_Voy a 4to 1ra Aviónica_
-
-
-Soy ex-estudiante del colegio San Justino  <img src="./sanjustino.jfif" width="50">
+_Voy a 7to 1ra Aviónica_
 
 
 Actual estudiante de la _EESTN7_ <img src="https://lh3.googleusercontent.com/proxy/tO68olUrNa-W1Wv5f4Ey_s1tW1O0EBY4j5ga-Rbl3PYr9mVMxOkzaS5uQjVG3z_kcPc-EG-IJ6LJeg6lnFCY8x_XXwd4YmCCmLg77fY" width="50">
